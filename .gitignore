@@ -1,2 +1,8 @@
+# Compiled C code
+output/
+
+# scratch files
+test-file.txt
+
 # claude files
 .claude/
